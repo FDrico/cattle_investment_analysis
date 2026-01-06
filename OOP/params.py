@@ -21,6 +21,13 @@ params = {
     'price_carne_vaca': 950,
     'price_carne_toro': 1400,
 
+    'auction_fee': 0.04, # 4% fee for the organizer
+    'logistics_cost': 100, # Fixed cost per batch (transport, bank, etc)
+    'batch_size_min': 4,
+    'batch_size_max': 8,
+    'batch_size_min_novillos': 3,
+    'batch_size_min_vaquillonas': 2,
+
     'edad_minima_venta': 7,
     'edad_maxima_ternero': 7,
     'edad_minima_toro': 2*12,
@@ -41,12 +48,14 @@ params = {
     'cull_check_month': 4, # april
     'min_age_to_sell': 7,
 
-    'drought_start': 48, # dought!
-    'drought_end': 60,
+    'drought_start': 0, # dought!
+    'drought_end': 0,
     'drought_pregnancy_prob_reduction': 0.2, #20% of the chances of getting pregnant than if not in a drought
     'drought_mortality_increase': 2, #twice as many deaths than if not in a drought
     'orphan_mortality_increase': 2, #twice as many deaths than if not in a drought
     'drought_market_price_reduction': 0.7,
+    'drought_sales_chance_reduction': 0.5, # Harder to find buyers in drought
+    'winter_mortality_increase': 2, # Higher mortality for calves in winter due to low grass quality
 
     'base_mortality': 0.002,
     'offspring_mortality_rate': 0.08/12, # Según CONICET, se muere un ~8% de las crias en el primer año.

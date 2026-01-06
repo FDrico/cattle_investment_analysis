@@ -1,0 +1,158 @@
+Feb-2025 - Month 2 - Mating season finished. Current state: 4 pregnant, 0 fertile (empty).
+Ago-2025 - Month 8 - A cow is giving birth.
+Ago-2025 - Month 8 - A cow is giving birth.
+Ago-2025 - Month 8 - A cow is giving birth.
+Sep-2025 - Month 9 - A cow is giving birth.
+Dic-2025 - Month 12 - Mating season started: 3 cows are eligible for mating.
+Dic-2025 - Month 12 - A cow (age 35) became pregnant.
+Dic-2025 - Month 12 - A cow (age 35) became pregnant.
+Dic-2025 - Month 12 - A terneros (age 4) died of natural causes.
+Ene-2026 - Month 13 - A cow (age 36) became pregnant.
+Ene-2026 - Month 13 - Abortion of a cow with 1 months of pregnancy.
+Ene-2026 - Month 13 - A cow (age 36) became pregnant.
+Feb-2026 - Month 14 - Mating season finished. Current state: 3 pregnant, 1 fertile (empty).
+Sep-2026 - Month 21 - A cow is giving birth.
+Oct-2026 - Month 22 - A cow is giving birth.
+Oct-2026 - Month 22 - A cow is giving birth.
+Dic-2026 - Month 24 - Mating season started: 1 cows are eligible for mating.
+Dic-2026 - Month 24 - A cow (age 47) became pregnant.
+Ene-2027 - Month 25 - A cow (age 48) became pregnant.
+Feb-2027 - Month 26 - A cow (age 49) became pregnant.
+Feb-2027 - Month 26 - A cow (age 49) became pregnant.
+Feb-2027 - Month 26 - Mating season finished. Current state: 4 pregnant, 1 fertile (empty).
+Abr-2027 - Month 28 - A cow (age 20) marked for culling due to infertility.
+Ago-2027 - Month 32 - A vaquillonas (age 10) died of natural causes.
+Ago-2027 - Month 32 - Selling a batch of 3 novillos.
+Sep-2027 - Month 33 - A cow is giving birth.
+Oct-2027 - Month 34 - A cow is giving birth.
+Nov-2027 - Month 35 - A cow is giving birth.
+Nov-2027 - Month 35 - A cow is giving birth.
+Dic-2027 - Month 36 - Mating season started: 1 cows are eligible for mating.
+Dic-2027 - Month 36 - A cow (age 59) became pregnant.
+Dic-2027 - Month 36 - A cow (age 28) became pregnant.
+Ene-2028 - Month 37 - A cow (age 60) became pregnant.
+Feb-2028 - Month 38 - A cow (age 61) became pregnant.
+Feb-2028 - Month 38 - Mating season finished. Current state: 4 pregnant, 1 fertile (empty).
+Mar-2028 - Month 39 - Abortion of a cow with 3 months of pregnancy.
+Abr-2028 - Month 40 - A cow (age 19) marked for culling due to infertility.
+Jul-2028 - Month 43 - Selling a batch of 4 vaquillonas.
+Sep-2028 - Month 45 - A cow is giving birth.
+Oct-2028 - Month 46 - A cow is giving birth.
+Nov-2028 - Month 47 - A cow is giving birth.
+Dic-2028 - Month 48 - Mating season started: 3 cows are eligible for mating.
+Dic-2028 - Month 48 - A cow (age 71) became pregnant.
+Dic-2028 - Month 48 - A cow (age 71) became pregnant.
+Dic-2028 - Month 48 - A cow (age 27) became pregnant.
+Ene-2029 - Month 49 - A cow (age 72) became pregnant.
+Ene-2029 - Month 49 - A cow (age 41) became pregnant.
+Feb-2029 - Month 50 - A bull (age 73) marked for culling due to old age.
+Feb-2029 - Month 50 - A bull (age 73) marked for culling due to old age.
+Feb-2029 - Month 50 - Mating season finished. Current state: 5 pregnant, 1 fertile (empty).
+Mar-2029 - Month 51 - Purchasing a new bull (age 24).
+Mar-2029 - Month 51 - A bull (age 74) marked for culling due to old age.
+Mar-2029 - Month 51 - A bull (age 74) marked for culling due to old age.
+Abr-2029 - Month 52 - A bull (age 75) marked for culling due to old age.
+Abr-2029 - Month 52 - A bull (age 75) marked for culling due to old age.
+May-2029 - Month 53 - A bull (age 76) marked for culling due to old age.
+May-2029 - Month 53 - A bull (age 76) marked for culling due to old age.
+Jun-2029 - Month 54 - A bull (age 77) marked for culling due to old age.
+Jun-2029 - Month 54 - A bull (age 77) marked for culling due to old age.
+Jul-2029 - Month 55 - A bull (age 78) marked for culling due to old age.
+Jul-2029 - Month 55 - A bull (age 78) marked for culling due to old age.
+Ago-2029 - Month 56 - A bull (age 79) marked for culling due to old age.
+Ago-2029 - Month 56 - A bull (age 79) marked for culling due to old age.
+Sep-2029 - Month 57 - A cow is giving birth.
+Sep-2029 - Month 57 - A cow is giving birth.
+Sep-2029 - Month 57 - A cow is giving birth.
+Sep-2029 - Month 57 - A bull (age 80) marked for culling due to old age.
+Sep-2029 - Month 57 - A bull (age 80) marked for culling due to old age.
+Oct-2029 - Month 58 - A cow is giving birth.
+Oct-2029 - Month 58 - A cow is giving birth.
+Oct-2029 - Month 58 - A bull (age 81) marked for culling due to old age.
+Oct-2029 - Month 58 - A bull (age 81) marked for culling due to old age.
+Nov-2029 - Month 59 - A bull (age 82) marked for culling due to old age.
+Nov-2029 - Month 59 - A bull (age 82) marked for culling due to old age.
+Dic-2029 - Month 60 - Mating season started: 1 cows are eligible for mating.
+Dic-2029 - Month 60 - A cow (age 83) became pregnant.
+Dic-2029 - Month 60 - A cow (age 83) became pregnant.
+Dic-2029 - Month 60 - A cow (age 39) became pregnant.
+Dic-2029 - Month 60 - A bull (age 83) marked for culling due to old age.
+Dic-2029 - Month 60 - A bull (age 83) marked for culling due to old age.
+Ene-2030 - Month 61 - A cow (age 84) became pregnant.
+Ene-2030 - Month 61 - A cow (age 53) became pregnant.
+Ene-2030 - Month 61 - A bull (age 84) marked for culling due to old age.
+Ene-2030 - Month 61 - A bull (age 84) marked for culling due to old age.
+Feb-2030 - Month 62 - A cow (age 85) became pregnant.
+Feb-2030 - Month 62 - A bull (age 85) marked for culling due to old age.
+Feb-2030 - Month 62 - A bull (age 85) marked for culling due to old age.
+Feb-2030 - Month 62 - Mating season finished. Current state: 6 pregnant, 0 fertile (empty).
+Mar-2030 - Month 63 - A bull (age 86) marked for culling due to old age.
+Mar-2030 - Month 63 - A bull (age 86) marked for culling due to old age.
+Abr-2030 - Month 64 - A bull (age 87) marked for culling due to old age.
+Abr-2030 - Month 64 - A bull (age 87) marked for culling due to old age.
+May-2030 - Month 65 - A bull (age 88) marked for culling due to old age.
+May-2030 - Month 65 - A bull (age 88) marked for culling due to old age.
+May-2030 - Month 65 - Selling a batch of 2 vaquillonas.
+Jun-2030 - Month 66 - A bull (age 89) marked for culling due to old age.
+Jun-2030 - Month 66 - A bull (age 89) marked for culling due to old age.
+Jun-2030 - Month 66 - Selling a batch of 3 novillos.
+Jul-2030 - Month 67 - A bull (age 90) marked for culling due to old age.
+Jul-2030 - Month 67 - A bull (age 90) marked for culling due to old age.
+Jul-2030 - Month 67 - Selling a batch of 2 vaquillonas.
+Ago-2030 - Month 68 - A bull (age 91) marked for culling due to old age.
+Ago-2030 - Month 68 - A bull (age 91) marked for culling due to old age.
+Sep-2030 - Month 69 - A cow is giving birth.
+Sep-2030 - Month 69 - A cow is giving birth.
+Sep-2030 - Month 69 - A cow is giving birth.
+Sep-2030 - Month 69 - A bull (age 92) marked for culling due to old age.
+Sep-2030 - Month 69 - A bull (age 92) marked for culling due to old age.
+Oct-2030 - Month 70 - A cow is giving birth.
+Oct-2030 - Month 70 - A cow is giving birth.
+Oct-2030 - Month 70 - A bull (age 93) marked for culling due to old age.
+Oct-2030 - Month 70 - A bull (age 93) marked for culling due to old age.
+Nov-2030 - Month 71 - A cow is giving birth.
+Nov-2030 - Month 71 - A bull (age 94) marked for culling due to old age.
+Nov-2030 - Month 71 - A bull (age 94) marked for culling due to old age.
+Dic-2030 - Month 72 - Mating season started: 0 cows are eligible for mating.
+Dic-2030 - Month 72 - A cow (age 95) became pregnant.
+Dic-2030 - Month 72 - A bull (age 95) marked for culling due to old age.
+Dic-2030 - Month 72 - A bull (age 95) marked for culling due to old age.
+Ene-2031 - Month 73 - A cow (age 52) became pregnant.
+Ene-2031 - Month 73 - A bull (age 96) marked for culling due to old age.
+Ene-2031 - Month 73 - A bull (age 96) marked for culling due to old age.
+Feb-2031 - Month 74 - A cow (age 97) became pregnant.
+Feb-2031 - Month 74 - A cow (age 66) became pregnant.
+Feb-2031 - Month 74 - A bull (age 97) marked for culling due to old age.
+Feb-2031 - Month 74 - A bull (age 97) marked for culling due to old age.
+Feb-2031 - Month 74 - Mating season finished. Current state: 4 pregnant, 2 fertile (empty).
+Mar-2031 - Month 75 - A bull (age 98) marked for culling due to old age.
+Mar-2031 - Month 75 - A bull (age 98) marked for culling due to old age.
+Abr-2031 - Month 76 - A bull (age 99) marked for culling due to old age.
+Abr-2031 - Month 76 - A bull (age 99) marked for culling due to old age.
+May-2031 - Month 77 - A bull (age 100) marked for culling due to old age.
+May-2031 - Month 77 - A bull (age 100) marked for culling due to old age.
+May-2031 - Month 77 - Selling a batch of 2 vaquillonas.
+Jun-2031 - Month 78 - A bull (age 101) marked for culling due to old age.
+Jun-2031 - Month 78 - A bull (age 101) marked for culling due to old age.
+Jul-2031 - Month 79 - A bull (age 102) marked for culling due to old age.
+Jul-2031 - Month 79 - A bull (age 102) marked for culling due to old age.
+Ago-2031 - Month 80 - A bull (age 103) marked for culling due to old age.
+Ago-2031 - Month 80 - A bull (age 103) marked for culling due to old age.
+Ago-2031 - Month 80 - A novillos (age 10) died of natural causes.
+Sep-2031 - Month 81 - A cow is giving birth.
+Sep-2031 - Month 81 - A bull (age 104) marked for culling due to old age.
+Sep-2031 - Month 81 - A bull (age 104) marked for culling due to old age.
+Oct-2031 - Month 82 - A cow is giving birth.
+Oct-2031 - Month 82 - A bull (age 105) marked for culling due to old age.
+Oct-2031 - Month 82 - A bull (age 105) marked for culling due to old age.
+Nov-2031 - Month 83 - A cow is giving birth.
+Nov-2031 - Month 83 - A cow is giving birth.
+Nov-2031 - Month 83 - A bull (age 106) marked for culling due to old age.
+Nov-2031 - Month 83 - A bull (age 106) marked for culling due to old age.
+Dic-2031 - Month 84 - Mating season started: 2 cows are eligible for mating.
+Dic-2031 - Month 84 - A cow (age 107) became pregnant.
+Dic-2031 - Month 84 - A cow (age 107) became pregnant.
+Dic-2031 - Month 84 - A bull (age 107) marked for culling due to old age.
+Dic-2031 - Month 84 - A bull (age 107) marked for culling due to old age.
+Ene-2032 - Month 85 - A bull (age 108) marked for culling due to old age.
+Ene-2032 - Month 85 - A bull (age 108) marked for culling due to old age.
